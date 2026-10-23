@@ -103,12 +103,12 @@
   <div class="container">
     <h1>Informativa sulla privacy — MyProperty</h1>
     <p class="meta"><strong>Ultimo aggiornamento:</strong> 23/10/2026</p>
-    <p class="meta"><strong>Versione:</strong> 2.3.0 (app MyProperty 2.10.0)</p>
+    <p class="meta"><strong>Versione:</strong> 2.4.0 (app MyProperty 2.10.0)</p>
 
     <hr>
 
     <h2>In breve</h2>
-    <p>MyProperty funziona per impostazione predefinita interamente sul tuo dispositivo. I dati che inserisci su immobili, inquilini, contratti, canoni, spese, documenti, scadenze e manutenzioni <strong>non vengono inviati a nessun server</strong>, né a noi né a terzi.</p>
+    <p>MyProperty funziona per impostazione predefinita interamente sul tuo dispositivo. I dati che inserisci su immobili, inquilini, contratti, canoni, spese, documenti, scadenze e manutenzioni <strong>non vengono inviati a nessun server</strong>, né a noi né a terzi. Nella versione web restano nel tuo browser (punto 2.6).</p>
     <p>Non c'è registrazione e non c'è un account. Per usare l'app non serve internet. La connessione serve solo per: <strong>attivare e rinnovare Premium</strong> (l'app invia la chiave e un'impronta del telefono ricavata con un hash, mai i dati dei tuoi immobili, punto 2.4) e <strong>controllare gli aggiornamenti</strong> dell'app (punto 2.5). L'acquisto avviene su PayPal.</p>
 
     <hr>
@@ -173,7 +173,16 @@
     <h3>2.5 Aggiornamenti dell'app</h3>
     <p>All'avvio l'app chiede a <code>marketplace-apps.com/api/versione/myproperty</code> qual è l'ultima versione disponibile e, se ce n'è una nuova, scarica il pacchetto di installazione da <code>files.marketplace-apps.com</code> (servizio Cloudflare R2). Sei tu a confermare l'installazione. In queste richieste non viene inviato nessun dato dei tuoi immobili: il server vede solo l'indirizzo IP della connessione.</p>
 
-    <h3>2.6 Cosa l'app NON fa</h3>
+    <h3>2.6 Versione web</h3>
+    <p>MyProperty si può usare anche dal browser, alla pagina <code>marketplace-apps.com/myproperty/web</code>. Nella versione web:</p>
+    <ul>
+      <li>i dati che inserisci sono salvati <strong>solo nel browser che usi</strong> (database locale del browser), non sui nostri server; se cancelli i dati del sito o cambi browser, non li ritrovi;</li>
+      <li>non ci sono documenti allegati, backup, notifiche né aggiornamenti;</li>
+      <li>un cookie tecnico ricorda che hai letto l'avviso iniziale;</li>
+      <li>se attivi Premium, la chiave si verifica sul server del marketplace (marketplace-apps.com), che apre una <strong>sessione Premium</strong> legata al tuo browser con un cookie tecnico (<code>httpOnly</code>, non leggibile dagli script della pagina). Per far funzionare la sessione il server conserva l'hash del codice di sessione, l'hash della chiave, il piano e la data di scadenza; non conserva la tua email né la chiave in chiaro. Con la stessa chiave possono essere aperte al massimo <strong>2 sessioni</strong>: aprendone una terza, la più vecchia viene chiusa e cancellata.</li>
+    </ul>
+
+    <h3>2.7 Cosa l'app NON fa</h3>
     <ul>
       <li>non raccoglie dati di utilizzo o statistiche</li>
       <li>non usa strumenti di analisi o pubblicità</li>
@@ -210,7 +219,7 @@
         <td>Esecuzione del contratto di acquisto (art. 6.1.b)</td>
       </tr>
       <tr>
-        <td>Attivare Premium sul telefono, rinnovare l'attivazione e far rispettare il limite di 2 telefoni per chiave</td>
+        <td>Attivare Premium sul telefono, rinnovare l'attivazione e far rispettare il limite di 2 telefoni per chiave; sessione Premium nella versione web (massimo 2 sessioni)</td>
         <td>Esecuzione del contratto di licenza (art. 6.1.b): il limite fa parte delle condizioni dell'offerta Premium</td>
       </tr>
       <tr>
@@ -236,6 +245,7 @@
       <li><strong>data dell'ultima sostituzione del telefono</strong>: 60 giorni;</li>
       <li><strong>hash delle chiavi bloccate</strong>: finché serve a impedirne l'uso.</li>
     </ul>
+    <p>Sessioni Premium della versione web: fino alla scadenza della licenza o finché la sessione non viene chiusa da una più recente; le sessioni scadute vengono cancellate entro 30 giorni.</p>
 
     <hr>
 
@@ -252,7 +262,11 @@
       </tr>
       <tr>
         <td>Vercel (Stati Uniti)</td>
-        <td>Hosting del sito marketplace-apps.com (pagina di acquisto, controllo versione)</td>
+        <td>Hosting del sito marketplace-apps.com e della versione web (pagina di acquisto, controllo versione, verifica della chiave web)</td>
+      </tr>
+      <tr>
+        <td>Supabase</td>
+        <td>Database del marketplace, ospitato nell'Unione europea (Irlanda), in cui sono salvate le sessioni Premium della versione web</td>
       </tr>
       <tr>
         <td>Resend (Stati Uniti)</td>
