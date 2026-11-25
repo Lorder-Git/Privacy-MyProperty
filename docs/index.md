@@ -1,242 +1,92 @@
-# Informativa sulla privacy — MyProperty
+# Informativa sulla privacy di MyProperty
 
-**Ultimo aggiornamento:** 09/09/2026
+*Versione 2.7.0 — aggiornata il 24/11/2026*
 
-**Versione:** 1.0
+**In breve.** MyProperty funziona sul suo telefono. I dati che inserisce restano lì, salvo quando è Lei a condividere un backup (punto 3): non li vendiamo e non li usiamo per pubblicità. Non serve un account e il servizio è protetto: connessioni cifrate, nessuna pubblicità, nessun tracciamento. Proteggiamo i suoi diritti secondo il Regolamento europeo sulla protezione dei dati (GDPR) e siamo lieti di aiutarla: ci scriva quando vuole.
 
-> ⚠️ ATTENZIONE: Questo è un modello ragionato, non un parere legale.
+## 1. Chi è il titolare
 
----
-
-## In breve
-
-MyProperty funziona per impostazione predefinita interamente sul tuo
-dispositivo. I dati che inserisci su immobili, inquilini, contratti, canoni,
-spese, documenti, scadenze e manutenzioni **non vengono inviati a nessun
-server**, né a noi né a terzi, a meno che tu non attivi volontariamente il
-backup cifrato descritto al punto 2.2.
-
-Non c'è registrazione, non c'è un account, non serve una connessione a
-internet per usare l'app.
-
----
-
-## 1. Titolare del trattamento
-
-Hubert Montero / Senior Developer / MyProperty
-
+Hubert Montero, sviluppatore indipendente — marketplace-apps.com  
 Email: premium@marketplace-apps.com
 
-Per qualsiasi questione relativa ai tuoi dati puoi scrivere all'indirizzo
-qui sopra.
+## 2. Dove restano i suoi dati
 
-Nota: se usi MyProperty per gestire dati di terze persone (ad esempio i tuoi
-inquilini), **sei tu il titolare del trattamento di quei dati** nei loro
-confronti — MyProperty è unicamente lo strumento che usi per organizzarli
-sul tuo dispositivo.
+I dati che inserisce in MyProperty (immobili, inquilini, contratti, canoni, spese, documenti allegati, scadenze e manutenzioni) sono salvati **solo sul suo telefono**, nella memoria riservata all'app.
 
----
+Per i dati dei suoi inquilini il titolare del trattamento è Lei.
 
-## 2. Quali dati tratta l'app
+## 3. Quando l'app usa internet
 
-### 2.1 Dati che inserisci tu
+L'app si collega a internet solo per queste funzioni:
 
-Per gestire i tuoi immobili l'app conserva quello che scrivi:
+- **Aggiornamenti**: l'app controlla se c'è una versione nuova e, se c'è, la scarica dal sito; non invia i dati che ha inserito né la sua email. Come per ogni collegamento a internet, i fornitori vedono l'indirizzo IP del telefono; noi non lo salviamo.
+- **Acquisto di Premium**: il pagamento avviene su PayPal. Riceviamo la sua email e i dati dell'ordine per inviarle la chiave e per gli obblighi fiscali.
+- **Attivazione di Premium**: l'app invia la chiave (che contiene l'email usata per l'acquisto) e un codice del telefono creato dall'app (non contiene il suo nome né il suo numero), per controllare che la chiave sia valida e usata sui dispositivi consentiti. Mai i dati che ha inserito nell'app.
+- **Versione web**: i dati restano nel suo browser. Usiamo solo cookie tecnici, necessari alla versione web: non serve il suo consenso. Nessun cookie di pubblicità o di profilazione. Il sito conta in forma aggregata quanto resta aperta la versione web, senza cookie e senza identificarla.
+- **Backup cifrato** (con Premium, nell'app per telefono): la copia è protetta con una password che conosce solo Lei. Noi non possiamo leggerla né recuperarla.
+- **Promemoria**: le notifiche sono create sul telefono; non passa niente da internet.
 
-- dati sugli immobili (indirizzo, città, tipologia, note)
-- dati sugli inquilini (nome, cognome, contatti)
-- dati sui contratti (date, tipologia, deposito cauzionale)
-- i canoni mensili e il relativo stato di pagamento
-- le spese legate agli immobili (categoria, importo, data)
-- i documenti che carichi (contratti, planimetrie, ricevute, foto)
-- le scadenze e i promemoria di manutenzione
+## 4. Cosa MyProperty non fa
 
-Sono **dati personali di natura organizzativa e potenzialmente finanziaria**,
-e in parte riguardano terze persone (i tuoi inquilini) e non solo te.
-Vengono salvati esclusivamente nella memoria privata dell'app sul tuo
-dispositivo, in un database locale che solo MyProperty può leggere.
+- Non ha account né registrazione.
+- Non mostra pubblicità e non fa profilazione.
+- Non usa strumenti di tracciamento o di statistica di terzi.
+- Non vende e non cede i suoi dati a nessuno.
+- Non legge contatti, messaggi, posizione o altre app, e non si collega ai suoi conti.
+- Non prende decisioni basate solo su un trattamento automatico che abbiano effetti giuridici su di Lei o che la riguardino in modo simile (art. 22 GDPR).
 
-**Per impostazione predefinita non vengono trasmessi a nessuno.** Non
-abbiamo un server che li riceve, non abbiamo modo di leggerli, e non
-possiamo recuperarli se li perdi — salvo il caso in cui tu attivi il backup
-descritto qui sotto.
+## 5. Perché trattiamo i pochi dati che riceviamo
 
-### 2.2 Backup cifrato (opzionale)
+| Dati | Perché | Base giuridica |
+|---|---|---|
+| Email e ordine | inviarle la chiave e rispettare gli obblighi fiscali | contratto e obbligo di legge (art. 6.1 b e c GDPR) |
+| Chiave e codice del telefono | attivare Premium e proteggerlo da usi non consentiti | contratto e legittimo interesse (art. 6.1 b e f) |
+| Indirizzo IP e dati tecnici del collegamento | far funzionare e proteggere il servizio | legittimo interesse (art. 6.1 f) |
+| Email della chiave e data di inizio d'uso sul web | dimostrare da quando usa Premium in caso di recesso | contratto e legittimo interesse (art. 6.1 b e f) |
+| Messaggi e richieste che ci scrive | risponderle | contratto, se riguarda l'acquisto; altrimenti legittimo interesse a rispondere a chi ci scrive (art. 6.1 b e f) |
+| Gli stessi messaggi, dopo la risposta | poter dimostrare quanto ci siamo detti in caso di contestazione | legittimo interesse a tutelarci (art. 6.1 f) |
 
-Nelle impostazioni puoi attivare, su tua scelta, un backup automatico dei
-tuoi dati (non dei file allegati, solo dei record del database) verso uno
-spazio di archiviazione da noi gestito. Se lo attivi:
+Darci questi dati è facoltativo. Senza l'email d'acquisto non possiamo inviarle la chiave; senza la chiave e il codice del telefono Premium non si attiva. Le funzioni gratuite si usano senza inviarci i dati che inserisce.
 
-- i dati vengono **cifrati sul tuo dispositivo prima dell'invio**, con una
-  chiave/password che scegli tu e che non condividiamo mai con noi;
-- quello che arriva sul nostro storage è un blob illeggibile: non siamo in
-  grado di decifrarlo né di accedere al suo contenuto;
-- serve esclusivamente a permetterti di recuperare i tuoi dati se cambi
-  dispositivo o reinstalli l'app, inserendo la tua licenza e la password
-  del backup;
-- **se dimentichi la password del backup, non siamo in grado di recuperare
-  i tuoi dati** — non abbiamo un modo per "resettarla" perché non la
-  conosciamo.
+## 6. Per quanto tempo
 
-Se non attivi questa opzione, vale quanto descritto al punto 2.1: nessun
-dato lascia il dispositivo.
+- Dati sul telefono: finché non li cancella o disinstalla l'app.
+- Registrazione dell'ordine per inviarle la chiave: 90 giorni.
+- Dati della vendita: restano nel conto PayPal del venditore per 10 anni, come richiesto dalle norme sulla conservazione dei documenti fiscali (art. 2220 codice civile).
+- Attivazioni: finché la licenza è in uso; cancellate entro 90 giorni dall'ultimo utilizzo (prova gratuita: 12 mesi).
+- Indirizzo IP: noi non lo salviamo; i fornitori lo tengono per il breve tempo previsto dai loro servizi.
+- Dati della sessione web: fino alla scadenza della licenza, poi cancellati entro 30 giorni.
+- Messaggi e richieste: se ha acquistato, li conserviamo per 1 anno (licenza mensile), 3 anni (annuale) o 5 anni (triennale) dall'ultimo messaggio, e comunque non oltre 26 mesi dalla scadenza della licenza se questa data viene prima: è il tempo in cui potrebbe nascere una contestazione sulla licenza. Se non ha acquistato, 12 mesi dall'ultimo messaggio, per seguire eventuali richieste successive. Se è in corso una contestazione, li conserviamo fino alla sua conclusione. Le richieste sui suoi diritti e le nostre risposte seguono gli stessi tempi.
 
-### 2.3 Notifiche
+## 7. A chi arrivano i dati
 
-L'app utilizza notifiche push locali per ricordarti scadenze, canoni in
-arrivo e manutenzioni programmate. Le notifiche sono generate e gestite
-interamente dal tuo dispositivo — non passano da nessun server esterno,
-non da Google, non da noi.
+Non diamo i suoi dati a nessuno per scopi propri.
 
-### 2.4 Cosa l'app NON fa
+- **Fornitori di servizi informatici che trattano i dati per nostro conto** (art. 28 GDPR): Cloudflare (Stati Uniti), Vercel (Stati Uniti), Supabase (società con sede a Singapore; dati conservati nell'Unione europea), Resend (Stati Uniti).
+- **Titolari autonomi**, ciascuno con la propria informativa: PayPal.
 
-- non raccoglie dati di utilizzo o statistiche
-- non usa strumenti di analisi o pubblicità
-- non accede alla rubrica, alla posizione o ai messaggi al di fuori di
-  quanto inserisci tu manualmente
-- non si collega ai tuoi conti bancari
-- non identifica il dispositivo né crea profili pubblicitari
-- non legge né analizza il contenuto dei documenti che carichi
-- non è in grado di leggere il contenuto del backup cifrato, anche se lo
-  attivi
+**Trasferimenti fuori dall'Unione europea**: Cloudflare, Vercel e Resend aderiscono al quadro UE-USA sulla protezione dei dati (Data Privacy Framework), riconosciuto adeguato dalla Commissione europea; per Supabase valgono le clausole contrattuali standard approvate dalla Commissione europea. Può chiederci copia delle garanzie a premium@marketplace-apps.com.
 
----
+## 8. I suoi diritti
 
-## 3. Base giuridica e finalità
+Il GDPR le garantisce di poter accedere ai suoi dati, correggerli, cancellarli, limitarne l'uso, opporsi e riceverli in un formato leggibile.
 
-| Finalità | Base giuridica |
-|---|---|
-| Conservare e mostrare i tuoi immobili, inquilini, contratti, canoni, spese, documenti, scadenze e manutenzioni | Esecuzione del servizio richiesto (art. 6.1.b GDPR) |
-| Inviarti notifiche di promemoria | Esecuzione del servizio richiesto |
-| Backup cifrato opzionale | Consenso esplicito (art. 6.1.a GDPR) — attivato solo se lo scegli tu, revocabile in ogni momento dalle impostazioni |
-| Registrare l'eventuale attivazione Premium | Legittimo interesse (art. 6.1.f GDPR) |
+- Per i dati sul telefono lo fa **direttamente dall'app**: li vede e li modifica nelle singole schede; crea una copia completa da «Impostazioni» › «Esporta backup cifrato locale» (con Premium, nell'app per telefono); elimina documenti, spese, scadenze e manutenzioni dalle loro schede, oppure disinstalla l'app per cancellare tutto. Per togliere l'attivazione di Premium da questo telefono ci scriva a premium@marketplace-apps.com.
+- Nella versione web i dati restano nel suo browser: li cancella eliminando i dati del sito dalle impostazioni del browser.
+- Per i pochi dati che riceviamo noi, ci scriva a premium@marketplace-apps.com: le rispondiamo entro un mese. Per trovarli più in fretta può indicarci la chiave di licenza o scriverci dall'email dell'acquisto.
+- Può revocare in qualsiasi momento un consenso dato, senza conseguenze su quanto fatto prima.
+- Se ritiene che i suoi diritti non siano rispettati, può presentare reclamo al Garante per la protezione dei dati personali (garanteprivacy.it).
 
-Non trattiamo i tuoi dati per marketing, profilazione o decisioni
-automatizzate.
+**Diritto di opposizione.** Quando trattiamo dati per un nostro legittimo interesse (proteggere le licenze, tenere sicuro il servizio), può opporsi quando vuole scrivendo a premium@marketplace-apps.com. Smettiamo, salvo motivi legittimi prevalenti che le spiegheremo.
 
----
+## 9. Sicurezza
 
-## 4. Per quanto tempo restano
+I dati sul telefono stanno nella memoria riservata all'app, protetta dal sistema operativo. Le comunicazioni con i nostri servizi sono cifrate. Le consigliamo di tenere attivo il blocco schermo e aggiornato il telefono.
 
-I dati restano sul tuo dispositivo finché non li cancelli tu, o finché non
-disinstalli l'app.
+## 10. Minori
 
-Se hai attivato il backup cifrato, la copia (illeggibile per noi) resta sul
-nostro storage finché non disattivi l'opzione o non ce ne chiedi la
-cancellazione scrivendo all'indirizzo email indicato al punto 1, indicando
-la tua licenza.
+MyProperty è destinata a persone maggiorenni (18 anni) e non raccoglie consapevolmente dati di minori.
 
-Senza backup attivo, non esiste alcuna copia altrove che possa sopravvivere
-alla cancellazione dal dispositivo.
+## 11. Modifiche
 
----
-
-## 5. Destinatari e trasferimenti
-
-Per impostazione predefinita: nessun destinatario, nessun trasferimento, né
-in Italia né all'estero.
-
-Se attivi il backup cifrato, il solo dato trasferito è il blob cifrato
-descritto al punto 2.2, inviato al nostro fornitore di storage cloud — che
-lo riceve già cifrato e non è in grado di leggerlo.
-
----
-
-## Distribuzione
-
-MyProperty è distribuita tramite il sito marketplace-apps.com, gestito dallo
-stesso sviluppatore. L'APK scaricabile dal sito è firmato digitalmente.
-
----
-
-## Il pagamento dell'abbonamento Premium
-
-La gestione dei tuoi immobili resta interamente sul tuo dispositivo, come
-descritto in questa informativa. L'acquisto dell'abbonamento Premium è
-un'eccezione dichiarata: quando tocchi "Vai al pagamento", l'app apre il
-tuo browser su una pagina di PayPal, esterna alla nostra app.
-
-Su quella pagina fornisci i dati di pagamento direttamente a PayPal, non a
-noi: **non riceviamo né vediamo mai i dati della tua carta o del tuo conto
-PayPal**. PayPal tratta quei dati secondo la propria informativa privacy,
-consultabile su paypal.com.
-
-Dopo il pagamento riceverai via email una chiave di attivazione. Quella
-chiave, una volta incollata nell'app, viene verificata **esclusivamente
-sul tuo dispositivo**: la verifica non richiede una connessione a internet
-e non invia la chiave da nessuna parte.
-
-L'unico dato che ci serve per generare la chiave è l'indirizzo email a cui
-la invii, che tratteremo solo per l'invio della chiave stessa e non per
-altri scopi.
-
----
-
-## 6. I tuoi diritti
-
-Il GDPR ti riconosce il diritto di accedere ai tuoi dati, correggerli,
-cancellarli, limitarne il trattamento, opporti e riceverli in un formato
-leggibile.
-
-Trattandosi di dati che stanno principalmente sul tuo dispositivo, **li
-eserciti direttamente dall'app**, senza dover scrivere a nessuno:
-
-| Diritto | Come |
-|---|---|
-| Accesso (art. 15) | Tutti i tuoi immobili, contratti, canoni e documenti sono visibili nell'app. |
-| Rettifica (art. 16) | Modifica o elimina qualsiasi immobile, inquilino, contratto o voce in qualunque momento. |
-| Cancellazione (art. 17) | Elimina i dati uno per uno, oppure disinstalla l'app per cancellare tutto (per il backup cifrato, scrivici come indicato al punto 4). |
-
-Se ritieni che il trattamento violi il GDPR puoi rivolgerti al **Garante per
-la protezione dei dati personali** (www.garanteprivacy.it) o all'autorità
-di controllo dello Stato in cui risiedi.
-
----
-
-## 7. Sicurezza
-
-I dati sono salvati nella memoria privata dell'applicazione, che il sistema
-operativo isola dalle altre app installate. Sui dispositivi Android moderni
-con blocco schermo attivo, questa memoria è cifrata dal sistema.
-
-Ti consigliamo di tenere attivo il blocco schermo del telefono, di
-mantenere aggiornato il sistema operativo e, se attivi il backup, di
-scegliere una password robusta e di non dimenticarla.
-
-**Fai i tuoi backup.** Se non attivi il backup cifrato integrato, non
-conserviamo copie: se perdi o formatti il telefono i dati non sono
-recuperabili.
-
----
-
-## 8. Minori
-
-L'app non è destinata a minori di 16 anni e non raccoglie consapevolmente
-dati che li riguardino.
-
----
-
-## 9. L'app non è un servizio di consulenza
-
-MyProperty è **uno strumento di organizzazione e promemoria**. Le scadenze
-e i dati mostrati sono basati su quanto inserisci tu, e non costituiscono
-consulenza finanziaria, fiscale, legale o immobiliare.
-
-Verifica sempre i tuoi contratti e le tue scadenze effettive consultando i
-documenti originali o contattando un professionista di riferimento.
-
----
-
-## 10. Modifiche a questa informativa
-
-Se cambieremo questa informativa in modo sostanziale, te lo mostreremo
-all'apertura dell'app e ti chiederemo di prenderne visione. La data in cima
-al documento indica l'ultimo aggiornamento.
-
----
-
-## 11. Contatti
-
-premium@marketplace-apps.com
-
-Rispondiamo entro 30 giorni, come previsto dall'art. 12 GDPR.
+Se questa informativa cambia, la nuova versione è pubblicata qui con la data.
