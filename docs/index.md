@@ -71,7 +71,7 @@ Non diamo i suoi dati a nessuno per scopi propri.
 
 Il GDPR le garantisce di poter accedere ai suoi dati, correggerli, cancellarli, limitarne l'uso, opporsi e riceverli in un formato leggibile.
 
-- Per i dati sul telefono lo fa **direttamente dall'app**: li vede e li modifica nelle singole schede; crea una copia completa da «Impostazioni» › «Esporta backup cifrato locale» (con Premium, nell'app per telefono); elimina documenti, spese, scadenze e manutenzioni dalle loro schede, oppure disinstalla l'app per cancellare tutto. Per togliere l'attivazione di Premium da questo telefono ci scriva a premium@marketplace-apps.com.
+- Per i dati sul telefono lo fa **direttamente dall'app**: li vede e li modifica nelle singole schede; crea una copia completa da «Impostazioni» › «Esporta backup cifrato locale» (con Premium, nell'app per telefono); elimina immobili, contratti, inquilini, documenti, spese e manutenzioni dalle loro schede: vanno nel Cestino dell'app, dove restano fino a 30 giorni e poi si cancellano da soli, file dei documenti compresi; dal Cestino può anche eliminarli subito per sempre. Le scadenze si eliminano subito. Oppure disinstalli l'app per cancellare tutto. Per togliere l'attivazione di Premium da questo telefono tocchi in «Impostazioni» la riga del piano e poi «Disattiva su questo telefono».
 - Nella versione web i dati restano nel suo browser: li cancella eliminando i dati del sito dalle impostazioni del browser.
 - Per i pochi dati che riceviamo noi, ci scriva a premium@marketplace-apps.com: le rispondiamo entro un mese. Per trovarli più in fretta può indicarci la chiave di licenza o scriverci dall'email dell'acquisto.
 - Può revocare in qualsiasi momento un consenso dato, senza conseguenze su quanto fatto prima.
