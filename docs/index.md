@@ -1,6 +1,6 @@
 # Informativa sulla privacy di MyProperty
 
-*Versione 2.7.0 — aggiornata il 24/11/2026*
+*Versione 2.8.0 — aggiornata il 26/11/2026*
 
 **In breve.** MyProperty funziona sul suo telefono. I dati che inserisce restano lì, salvo quando è Lei a condividere un backup (punto 3): non li vendiamo e non li usiamo per pubblicità. Non serve un account e il servizio è protetto: connessioni cifrate, nessuna pubblicità, nessun tracciamento. Proteggiamo i suoi diritti secondo il Regolamento europeo sulla protezione dei dati (GDPR) e siamo lieti di aiutarla: ci scriva quando vuole.
 
@@ -24,7 +24,7 @@ L'app si collega a internet solo per queste funzioni:
 - **Attivazione di Premium**: l'app invia la chiave (che contiene l'email usata per l'acquisto) e un codice del telefono creato dall'app (non contiene il suo nome né il suo numero), per controllare che la chiave sia valida e usata sui dispositivi consentiti. Mai i dati che ha inserito nell'app.
 - **Versione web**: i dati restano nel suo browser. Usiamo solo cookie tecnici, necessari alla versione web: non serve il suo consenso. Nessun cookie di pubblicità o di profilazione. Il sito conta in forma aggregata quanto resta aperta la versione web, senza cookie e senza identificarla.
 - **Backup cifrato** (con Premium, nell'app per telefono): la copia è protetta con una password che conosce solo Lei. Noi non possiamo leggerla né recuperarla.
-- **Promemoria**: le notifiche sono create sul telefono; non passa niente da internet.
+- **Promemoria e avvisi del Premium**: i promemoria delle scadenze e gli avvisi sulla scadenza del Premium sono notifiche create sul telefono; non passa niente da internet.
 
 ## 4. Cosa MyProperty non fa
 
@@ -71,7 +71,7 @@ Non diamo i suoi dati a nessuno per scopi propri.
 
 Il GDPR le garantisce di poter accedere ai suoi dati, correggerli, cancellarli, limitarne l'uso, opporsi e riceverli in un formato leggibile.
 
-- Per i dati sul telefono lo fa **direttamente dall'app**: li vede e li modifica nelle singole schede; crea una copia completa da «Impostazioni» › «Esporta backup cifrato locale» (con Premium, nell'app per telefono); elimina immobili, contratti, inquilini, documenti, spese e manutenzioni dalle loro schede: vanno nel Cestino dell'app, dove restano fino a 30 giorni e poi si cancellano da soli, file dei documenti compresi; dal Cestino può anche eliminarli subito per sempre. Le scadenze si eliminano subito. Oppure disinstalli l'app per cancellare tutto. Per togliere l'attivazione di Premium da questo telefono tocchi in «Impostazioni» la riga del piano e poi «Disattiva su questo telefono».
+- Per i dati sul telefono lo fa **direttamente dall'app**: li vede e li modifica nelle singole schede; crea una copia completa da «Impostazioni» › «Esporta backup cifrato locale» (con Premium, nell'app per telefono); elimina immobili, contratti, inquilini, documenti, spese, manutenzioni e scadenze dalle loro schede: vanno nel Cestino dell'app, dove restano fino a 30 giorni e poi si cancellano da soli, file dei documenti compresi; dal Cestino può anche eliminarli subito per sempre. Oppure disinstalli l'app per cancellare tutto. Per togliere l'attivazione di Premium da questo telefono tocchi in «Impostazioni» la riga del piano e poi «Disattiva su questo telefono».
 - Nella versione web i dati restano nel suo browser: li cancella eliminando i dati del sito dalle impostazioni del browser.
 - Per i pochi dati che riceviamo noi, ci scriva a premium@marketplace-apps.com: le rispondiamo entro un mese. Per trovarli più in fretta può indicarci la chiave di licenza o scriverci dall'email dell'acquisto.
 - Può revocare in qualsiasi momento un consenso dato, senza conseguenze su quanto fatto prima.
